@@ -1,2 +1,2 @@
 # Chess
-This is an html and css that create a chess board, but do not utilize JavaScript to move the pieces yet.
+Developed a program in Visual Studio Code to display a static chess board. The code generates a traditional 8x8 chess grid with alternating light and dark squares, replicating the standard chessboard pattern. Each square is labeled with its corresponding algebraic notation. The program serves as a visual representation of a chess board, providing a clear and non-interactive display for reference or educational purposes. The code is structured for clarity and ease of understanding, making it a straightforward tool for visualizing chess board layouts.
